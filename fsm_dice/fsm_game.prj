@@ -1,0 +1,3 @@
+vhdl work "../random_number/random_number.vhd"
+vhdl work "../comparator_3bit/comparator_3bit.vhd"
+vhdl work "fsm_game.vhd"

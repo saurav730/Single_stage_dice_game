@@ -1,0 +1,1 @@
+vhdtdtfi -prj fsm_dice -o C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/fsm_dice/comparator_3bit.vhi -module comparator_3bit -template C:/Xilinx/14.6/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../comparator_3bit/comparator_3bit.vhd 

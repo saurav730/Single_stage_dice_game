@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/comparator_3bit/comparator_3bit.xst" -ofn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/comparator_3bit/comparator_3bit.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/comparator_3bit/comparator_3bit.xst" -ofn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/comparator_3bit/comparator_3bit.syr" 

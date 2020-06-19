@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/random_number/random_number.xst" -ofn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/random_number/random_number.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/random_number/random_number.xst" -ofn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/random_number/random_number.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/random_number/random_number.xst" -ofn "C:/Xilinx/14.6/ISE_DS/Dual_Dice_Game/random_number/random_number.syr" 
